@@ -9,4 +9,8 @@
 
     <string name="toy_name_glyph_button">Glyph Button Demo</string>
     <string name="toy_summary_glyph_button">Activates the glyph matrix when the glyph button is pressed.</string>
+
+    <string name="toy_name_card_spinner" translatable="false">Card Spinner</string>
+    <string name="toy_summary_card_spinner" translatable="false">Spin and reveal a random playing card</string>
+
 </resources>
